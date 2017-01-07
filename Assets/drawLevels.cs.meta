@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: af6c30bb77511e24289de54a50ff145e
+timeCreated: 1483615409
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - t1_cube: {fileID: 1616226718516316, guid: 35d05a5eacafbda49b0ccd115f31ebaa, type: 2}
+  - t2_cube: {fileID: 1901585381892110, guid: c1c847e5f89bee54b967e41a4d04e88c, type: 2}
+  - t3_cube: {fileID: 1466607685977908, guid: 8fa54cf9db583494d948464ebc41ff15, type: 2}
+  - red_cube: {fileID: 1049213268466498, guid: 1c701fe4c62897748ae0089b4e7a628a, type: 2}
+  - blue_cube: {fileID: 1738852086176748, guid: 0b1286d11927a1d49ae9f65f4163f9c5,
+      type: 2}
+  - green_cube: {fileID: 1128945548354798, guid: 03f384bc522e4df40bf6b5dac9f6c9e1,
+      type: 2}
+  - invisible_cube: {fileID: 1210354551557976, guid: a47b4db5fdf79da429bea22148fccb1b,
+      type: 2}
+  - fps_controller: {fileID: 1711012425194894, guid: b692f9d2e4b731b45ac7f27bf03ce2be,
+      type: 2}
+  - hammer_changing_color: {fileID: 2100000, guid: c16f1e0f3bfd1cd43be2bb3f0b9d2c0a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

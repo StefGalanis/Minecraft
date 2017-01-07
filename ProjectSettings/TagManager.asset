@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - outter_camera
+  - red_cube
+  - blue_cube
+  - green_cube
+  - t1_cube
+  - t2_cube
+  - t3_cube
+  - t3_cube_debris
+  - t2_cube_debris
+  - t1_cube_debris
+  - red_cube_debris
+  - blue_cube_debris
+  - green_cube_debris
+  - terrain
+  - invisible_cube
+  - fps_controller
+  - hammer_spawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

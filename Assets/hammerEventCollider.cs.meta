@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 4193a583b59e6e848b9eaa8ec25bdbdf
+timeCreated: 1483615502
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - red_cube_debris: {fileID: 1268211148969296, guid: 8b6a7e33a102ee345960fa8bb5ca6a56,
+      type: 2}
+  - blue_cube_debris: {fileID: 1729744085435672, guid: 230fc180441724d45a79ced05e84d073,
+      type: 2}
+  - green_cube_debris: {fileID: 1504625373098438, guid: c24436ad31624eb4ea18bbdb9ece5251,
+      type: 2}
+  - t1_cube_debris: {fileID: 1126326890460676, guid: 46ce42cf41fba574390d89b575e30f77,
+      type: 2}
+  - t2_cube_debris: {fileID: 1891866623725814, guid: 83203516fb2662f4c83aa623651e11ac,
+      type: 2}
+  - t3_cube_debris: {fileID: 1074810288874150, guid: 67f9ea29e3487154fa15b71e590b2c05,
+      type: 2}
+  - hammer_spawn: {fileID: 1949951580621890, guid: 9afaf16f3c6dba8408763f9db8a1e907,
+      type: 2}
+  - hammer_changing_color: {fileID: 2100000, guid: c16f1e0f3bfd1cd43be2bb3f0b9d2c0a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
